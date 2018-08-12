@@ -1,0 +1,21 @@
+{
+    "name": "server_instagram_clone",
+    "version": "1.0.0",
+    "description": "",
+    "main": "server.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Danubio",
+    "license": "ISC",
+    "dependencies": {
+        "body-parser": "^1.15.2",
+        "connect-multiparty": "^2.1.1",
+        "express": "^4.14.0",
+        "file-system": "^2.2.2",
+        "fs": "0.0.1-security",
+        "mongodb": "^2.2.10",
+        "mv": "^2.1.1",
+        "node-mv": "^0.1.3"
+    }
+}
